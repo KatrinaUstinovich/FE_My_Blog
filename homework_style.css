@@ -1,0 +1,30 @@
+h2{color:darkviolet;
+text-align: center;}
+
+.hobby{background-color: coral;
+border: 5px solid lightsalmon;
+padding: 20px;
+margin-bottom: 20px;}
+
+.hobby img, .courses img, .sport img {width: 350px;
+     height: 250px;}
+
+.courses{background-color: lightblue;
+border: 5px solid lightseagreen;
+padding: 20px;
+margin-bottom: 20px}
+
+.sport{background-color: lightgreen;
+border: 5px solid greenyellow;
+padding: 20px;
+margin-bottom: 20px}
+
+.links{border: 1px solid black;
+text-align: center;
+padding: 20px;
+}
+
+.links img {width: 30px;}
+
+p  {color: darkblue;}
+a {color: darkgreen;}
